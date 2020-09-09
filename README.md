@@ -8,6 +8,6 @@ Hier werden die Inhalte des Kurses "DevOps und Site Reliability Engineering" ver
 
 Internationale Medieninformatik - Bachelor
 
-Web Technology - Aktuelle Themen
+Web Technology - Aktuelle Themen 2
 
 Hochschule für Technik und Wirtschaft Berlin
