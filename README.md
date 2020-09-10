@@ -1,13 +1,13 @@
-# DevOps und Site Reliability Engineering
+# DevOps and Site Reliability Engineering
 
-__ab Oktober 2020__
+__from October 2020__
 
-Hier werden die Inhalte des Kurses "DevOps und Site Reliability Engineering" veröffentlicht.
+The content of the course "DevOps and Site Reliability Engineering" is published here.
+
+You can find further material to specific topics in the 🤓 [Deep-Dive section](./deep-dive/README.md).
 
 ---
 
-Internationale Medieninformatik - Bachelor
-
-Web Technology - Aktuelle Themen 2
-
-Hochschule für Technik und Wirtschaft Berlin
+> Internationale Medieninformatik - Bachelor
+> Web Technology - Aktuelle Themen 2
+> Hochschule für Technik und Wirtschaft Berlin
