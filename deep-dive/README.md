@@ -9,6 +9,6 @@
 
 ---
 
-> Internationale Medieninformatik - Bachelor
+> Internationale Medieninformatik - Bachelor -
 > Web Technology - Aktuelle Themen 2 -
 > Hochschule für Technik und Wirtschaft Berlin
