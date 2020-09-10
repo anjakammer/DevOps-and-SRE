@@ -9,5 +9,5 @@ You can find further material to specific topics in the 🤓 [Deep-Dive section]
 ---
 
 > Internationale Medieninformatik - Bachelor
-> Web Technology - Aktuelle Themen 2
+> Web Technology - Aktuelle Themen 2 -
 > Hochschule für Technik und Wirtschaft Berlin
