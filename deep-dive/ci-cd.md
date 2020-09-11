@@ -1,5 +1,3 @@
-Deep-Dive
-
 # CI/CD
 
 - Continuous Integration
@@ -7,6 +5,7 @@ Deep-Dive
 - Continuous Deployment
 
 > There is no such thing as a 'DevOps Pipeline'
+>
 > -- Me
 
 ## Books

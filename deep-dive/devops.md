@@ -1,8 +1,7 @@
-Deep-Dive
-
 # DevOps
 
 > There is no such thing as a 'DevOps Engineer'
+>
 > -- Me
 
 ## Books

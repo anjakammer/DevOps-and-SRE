@@ -1,8 +1,7 @@
-Deep-Dive
-
 # Site Reliability Engineering
 
-> It is ~~DevOps Engineer~~ SRE
+> The job role is ~~DevOps Engineer~~ SRE
+>
 > -- Me
 
 ## Books

@@ -1,14 +1,24 @@
-Deep-Dive
-
 # Operation Tools
 
-## Books
+## General
+
+### Books
 
 - Miell, Ian, and Aidan Hobson Sayers. __Docker in practice__. Manning Publications, 2016.
 - Morris, Kief. __Infrastructure as code: managing servers in the cloud__. " O'Reilly Media, Inc.", 2016.
 - Vehent, Julien. __Securing DevOps: Security in the Cloud__. Manning Publications Co., 2018.
 
-## Articles
+### Articles
 
-- [~~Dev~~Ops Roadmap](https://roadmap.sh/devops) It is about tools and languages for operations and just someone's opinion - relax. 😎
+- [~~Dev~~Ops Roadmap](https://roadmap.sh/devops) It is about tools and languages for operations. Just someone's opinion - relax. 😎
+
+## Tools
+
+### Docker
+
 - [The Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/) Great tutorial to learn how to use Docker.
+
+### Git-Crypt
+
+- [GitHub Repo: git-crypt](https://github.com/AGWA/git-crypt)
+- [Tutorial](https://buddy.works/guides/git-crypt) Good Tutorial, even without using Buddy as a CI/CD System.

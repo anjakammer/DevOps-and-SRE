@@ -1,5 +1,3 @@
-Deep-Dive
-
 # Development
 
 General useful material about the development process.
@@ -17,7 +15,10 @@ General useful material about the development process.
 
 - [securityheaders.com](https://securityheaders.com/)
 Check whether your website uses security headers correctly or uses them at all.
-- [YT Playlist: Software Development](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4WBzLzIq-rjMtujrGbDgh_) Gönn dir.
 - [httpbin](https://httpbin.org/) A simple HTTP Request & Response Service for e.g. testing a proxy
 - [Bash Cheat Sheet](https://devhints.io/bash) Thank me later.
 - [ngrok](https://ngrok.com/) Public URLs for your local running  software.
+
+## Videos
+
+- [Playlist: Software Development](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4WBzLzIq-rjMtujrGbDgh_)

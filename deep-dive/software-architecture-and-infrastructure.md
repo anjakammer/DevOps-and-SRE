@@ -1,5 +1,3 @@
-Deep-Dive
-
 # Software Architecture & Infrastructure
 
 ## Books
