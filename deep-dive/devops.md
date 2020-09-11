@@ -11,3 +11,5 @@
 - Davis, Jennifer, and Ryn Daniels. __Effective DevOps: building a culture of collaboration, affinity, and tooling at scale__. " O'Reilly Media, Inc.", 2016.
 
 ## Articles
+
+- [DevOps Topologies](https://web.devopstopologies.com) Illustrates pretty much every DevOps constellation you can think of.

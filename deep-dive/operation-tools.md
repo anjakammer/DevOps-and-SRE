@@ -11,6 +11,7 @@
 ### Articles
 
 - [~~Dev~~Ops Roadmap](https://roadmap.sh/devops) It is about tools and languages for operations. Just someone's opinion - relax. 😎
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) Yet another List of useful tools and articles.
 
 ## Tools
 

@@ -9,7 +9,8 @@ General useful material about the development process.
 
 ## Articles
 
-- [Things You Want to Do in Git and How to Do Them](https://stu2b50.dev/posts/things-you-wante9665) The most practical useful article about git.
+- [Things You Want to Do in Git and How to Do Them](https://stu2b50.dev/posts/things-you-wante9665) The most useful practical article about git.
+- [Oh Shit, Git!?!](https://ohshitgit.com/) Because everybody recommends it.
 
 ## Online Tools
 
