@@ -8,14 +8,14 @@ You can find further material to specific topics in the 🤓 [Deep-Dive section]
 
 | Date  |  Lecture      | Presentation  | Exercise    |
 |:-----:|-              |-              |-            |
-| 02.10 |Introduction - What is DevOps and Site Reliability Engineering (SRE)|-|tba|
-| 09.10 |[DevOps-driven Software Development](./deep-dive/devops.md)|-|tba|
-| 16.10 |[SRE Practices](./deep-dive/sre.md)|-|tba|
-| 23.10 |[Basics of modern Software Development](./deep-dive/development.md)|pact, </br> Behavior-driven Development\*, </br> REST vs. Messaging|tba|
+| 02.10 |Introduction - What is DevOps and Site Reliability Engineering (SRE)|-|via Miro Board|
+| 09.10 |[DevOps-driven Software Development](./deep-dive/devops.md)|-|via Miro Board|
+| 16.10 |[SRE Practices](./deep-dive/sre.md)|-|via Miro Board|
+| 23.10 |[Basics of modern Software Development](./deep-dive/development.md)|pact, </br> Behavior-driven Development\*, </br> REST vs. Messaging|[git](./exercises/git.md)|
 | 30.10 |[Web & Mobile Application Development](./deep-dive/software-architecture-and-infrastructure.md)| Stateless Applications, </br> Microservices, </br> Elasticsearch|[postman](./exercises/postman.md)|
 | 06.11 |[CI/CD](./deep-dive/ci-cd.md)|GitLab-CI, </br> TravisCI, </br> GitHub Actions| [Github-Actions](./exercises/github-actions.md)|
 | 13.11 |Infrastructure-as-Code|Terraform|tba|
-| 20.11 |Containers & VMs|Ansible|tba|
+| 20.11 |Containers & VMs|Ansible|[docker](./exercises/containers.md)|
 | 27.11 |Containers - Deep Dive|quay|[docker](./exercises/containers.md)|
 | 04.12 |Cloud Computing|FaaS, </br> Firebase, </br> S3 or Cloud Storage |tba|
 | 11.12 |Logs & Tracing|Zipkin|tba|
