@@ -20,7 +20,7 @@ You can find further material to specific topics in the 🤓 [Deep-Dive section]
 | 04.12 |Cloud Computing|FaaS, </br> Firebase, </br> S3 or Cloud Storage |tba|
 | 11.12 |Logs & Tracing|Zipkin|tba|
 | 18.12 |Metrics & Alerting|Sentry, </br> Prometheus|tba|
-| 08.01 |SLIs, SLOs, SLAs|tba|tba|
+| 08.01 |SLIs, SLOs, SLAs|Chaos Engineering|tba|
 | 15.01 |Secrets Management|HashiCorp Vault|[git-crypt](./exercises/secrets-management.md)|
 | 22.01 |tba|tba|tba|
 | 29.01 |Compute Platforms|Heroku, </br> Kubernetes, </br> Cloud Foundry, </br> Fargate |tba|
