@@ -23,3 +23,7 @@
 
 - [GitHub Repo: git-crypt](https://github.com/AGWA/git-crypt)
 - [Tutorial](https://buddy.works/guides/git-crypt) Good Tutorial, even without using Buddy as a CI/CD System.
+
+### Kubernetes
+
+- [Kubernetes YAML Generator](https://k8syaml.com/) Online Kubernetes Manifest Generator

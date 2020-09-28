@@ -1,4 +1,4 @@
-# Postman
+# git and GitHub
 
 This is the exercise description
 
