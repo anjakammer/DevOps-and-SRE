@@ -12,6 +12,8 @@ General useful material about the development process.
 - [Things You Want to Do in Git and How to Do Them](https://stu2b50.dev/posts/things-you-wante9665) The most useful practical article about git.
 - [Oh Shit, Git!?!](https://ohshitgit.com/) Because everybody recommends it.
 - [The Impostor's Advantage](https://www.zainrizvi.io/blog/the-impostors-advantage/) A magical blog post about the fact, that nobody knows shit
+- [How HTTPS Works](https://howhttps.works/episodes/) A comic you will love.
+- [How DNS Works](https://howdns.works/episodes/) Another comic you will love.
 
 ## Online Tools
 
@@ -26,3 +28,4 @@ Check whether your website uses security headers correctly or uses them at all.
 ## Videos
 
 - [Playlist: Software Development](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4WBzLzIq-rjMtujrGbDgh_)
+- [Talk: Event Storming](https://www.youtube.com/watch?v=YR2-NehkjuY) On how to describe processes
