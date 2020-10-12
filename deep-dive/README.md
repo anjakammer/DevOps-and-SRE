@@ -3,7 +3,7 @@
 - 🤹‍♀️ [DevOps](./devops.md)
 - 🧙‍♀️ [Site Reliability Engineering](./sre.md)
 - 🤖 [CI/CD](./ci-cd.md)
-- 👩‍🚒 [Tools for Operations](./operation-tools.md)
+- 👩‍🚒 [Operation](./operation.md)
 - 👩‍💻 [Software Development in General](./development.md)
 - 👩‍🔧 [Software Architecture & Infrastructure](./software-architecture-and-infrastructure.md)
 

@@ -12,8 +12,10 @@ General useful material about the development process.
 - [Things You Want to Do in Git and How to Do Them](https://stu2b50.dev/posts/things-you-wante9665) The most useful practical article about git.
 - [Oh Shit, Git!?!](https://ohshitgit.com/) Because everybody recommends it.
 - [The Impostor's Advantage](https://www.zainrizvi.io/blog/the-impostors-advantage/) A magical blog post about the fact, that nobody knows shit
+- [Take on hard Projects](https://wizardzines.com/comics/take-on-hard-projects/) You are the right person for any project.
 - [How HTTPS Works](https://howhttps.works/episodes/) A comic you will love.
 - [How DNS Works](https://howdns.works/episodes/) Another comic you will love.
+- [DIY Git in Python](https://www.leshenko.net/p/ugit) Tutorial on how to implement Git in Python.
 
 ## Online Tools
 
