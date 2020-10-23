@@ -26,6 +26,7 @@ Check whether your website uses security headers correctly or uses them at all.
 - [ngrok](https://ngrok.com/) Public URLs for your local running software.
 - [Postman](https://www.postman.com/) Client for testing APIs
 - [Hoppscotch](https://hoppscotch.io/) Alternative for Postman
+- [CodeOnline](https://code.codeonline.io/) Online Code Editor
 
 ## Videos
 
