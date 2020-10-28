@@ -7,7 +7,7 @@ GitHub is a platform for storing and accessing these repositories remotely. Ther
 ## Exercise Rules
 
 - Create an exercise documentation (en|de) while you are working on the tasks. This is your submission for the exercise.
-- For every task, write down your initial thoughts, assumptions, and the final outcome in full sentences. Describe the process of solving the task and provide code snippets and screenshot if needed.
+- For every task, write down your initial thoughts, assumptions, and the final outcome in full sentences. Describe the process of solving the task and provide code snippets and screenshots if needed.
 - If you are not able to solve the task because you are not getting the tool to work, describe how you would solve it theoretically. You should still provide e.g. code snippets or a step by step description from the documentation or tutorial you found.
 - Provide a hyperlink or other reference for every documentation or tutorial you used to solve a task. Paraphrase and cite correctly, please.
 - Try to submit not more than two A4 pages for your exercise documentation in pdf format.
