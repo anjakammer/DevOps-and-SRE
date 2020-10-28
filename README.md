@@ -14,7 +14,7 @@ If you are looking for the link to join the synchronous held course, write me an
 | 09.10 |[DevOps-driven Software Development](./deep-dive/devops.md)|-|via Miro Board|
 | 16.10 |[SRE Practices](./deep-dive/sre.md)|-|via Miro Board|
 | 23.10 |[Basics of modern Software Development](./deep-dive/development.md)|pact, </br> Behavior-driven Development\*, </br> REST vs. Messaging, </br> Feature-Toggles*|[git](./exercises/git.md)|
-| 30.10 |[Web & Mobile Application Development](./deep-dive/software-architecture-and-infrastructure.md)| Stateless Applications, </br> Microservices, </br> Elasticsearch|[postman](./exercises/postman.md)|
+| 30.10 |[Web & Mobile Application Architecture](./deep-dive/software-architecture-and-infrastructure.md)| Stateless Applications, </br> Microservices, </br> Elasticsearch|[postman](./exercises/postman.md)|
 | 06.11 |[CI/CD](./deep-dive/ci-cd.md)|GitLab-CI, </br> TravisCI, </br> GitHub Actions| [Github-Actions](./exercises/github-actions.md)|
 | 13.11 |Infrastructure-as-Code|Terraform|tba|
 | 20.11 |Containers & VMs|Ansible|[docker](./exercises/containers.md)|
