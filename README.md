@@ -27,7 +27,7 @@ If you are looking for the link to join the synchronous held course, write me an
 | 22.01 |tba|tba|tba|
 | 29.01 |Compute Platforms|Heroku, </br> Kubernetes, </br> Cloud Foundry, </br> Fargate |tba|
 | 05.02 |GitOps|Flux-CD, </br> JenkinsX, </br> ArgoCD|tba|
-| 12.02 |Topics we missed|NoOps\*, </br> ChatOps\*, </br> DevSecOps\*, </br> MLOps|tba|
+| 12.02 |Topics we missed|NoOps\*, </br> ChatOps\*, </br> DevSecOps\*, </br> MLOps|via Miro Board|
 
 \* These are easy topics
 
