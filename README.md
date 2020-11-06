@@ -16,7 +16,7 @@ If you are looking for the link to join the synchronous held course, write me an
 | 23.10 |[Basics of modern Software Development](./deep-dive/development.md)|pact, </br> Behavior-driven Development\*, </br> REST vs. Messaging, </br> Feature-Toggles*|[git](./exercises/git.md)|
 | 30.10 |[Web & Mobile Application Architecture](./deep-dive/software-architecture-and-infrastructure.md)| Stateless Applications, </br> Microservices, </br> Elasticsearch|[postman](./exercises/postman.md)|
 | 06.11 |[CI/CD](./deep-dive/ci-cd.md)|GitLab-CI, </br> TravisCI, </br> GitHub Actions| [Github-Actions](./exercises/github-actions.md)|
-| 13.11 |Infrastructure-as-Code|Terraform|tba|
+| 13.11 |Infrastructure-as-Code|Terraform|Infrastructure Architecture|
 | 20.11 |Containers & VMs|Ansible|[docker](./exercises/containers.md)|
 | 27.11 |Containers - Deep Dive|quay|[docker](./exercises/containers.md)|
 | 04.12 |Cloud Computing|FaaS, </br> Firebase, </br> S3 or Cloud Storage, </br> Cloudflare |tba|
