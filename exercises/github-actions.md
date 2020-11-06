@@ -12,7 +12,7 @@ This exercise aims to learn how to automate any code-related process using GitHu
 
 ## Tasks
 
-1. Fork the following repository into your account. Add a fancy image into the Readme.md file on a new branch and open a pull request for your change. [https://github.com/anjakammer/github-actions-exercise](https://github.com/anjakammer/github-actions-exercise)
+1. Fork the following repository into your account. Add a fancy image into the Readme.md file on a new branch and open a pull request on your own repository for your change. [https://github.com/anjakammer/github-actions-exercise](https://github.com/anjakammer/github-actions-exercise)
 2. A GitHub Workflow should run now. How can you observe the workflow and its stages running for this pull request?
 3. Why and when does the 'build' job run? When run the other two?
 4. Analyse the GitHub Workflow configuration file `.github/workflows/onPullRequest.yml`. Explain in detail what each of the lines of the configuration means and does. These are about 50 lines, so you need to write down at least 50 __sentences__ for this task. However, some lines appear multiple times and some are blank.
