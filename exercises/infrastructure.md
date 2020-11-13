@@ -85,7 +85,7 @@ The Cron component is scheduled to run every night at 3 am to do database operat
 # my-service.txt
 
    API_PWD : "superSecret",
-   APU_USER : "user1",
+   API_USER : "user1",
    HOST_NAME : "cluster.web-service.x.example"
    PORT : 8888
 ```
