@@ -25,6 +25,10 @@ This exercise aims to learn how an application infrastructure and architecture f
    - Proxy_Port = 80
    - Cache_Port = 6380
    - DB_Port = 5342
+   - DB_User = 'name'
+   - Cache_User = 'clientid'
+   - DB_psw = 'secret'
+   - Cache_psw = 'password'
 3. What components are infrastructural components?
 
 ### Architecture Description
