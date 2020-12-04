@@ -20,7 +20,7 @@ This exercise aims to learn what kinds of services public cloud providers offer.
 
 2. You have two options to solve this task, pick one:
 
-   a. You pick a particular cloud service from your chosen cloud provider and try it out practically. An example could be the creation of a private container registry, where you are pushing and pulling private container images. Another Example is to create a cloud function using some FaaS, where you are able to successfully deploy code and test the resulting endpoint. For your submission, you are documenting every step and findings. You also provide a simple, self-made diagram, showing how the service works or how it interacts with other services, traffic, or data.
+   a. You pick a particular cloud service from your chosen cloud provider and try it out practically. An example could be the creation of a private container registry, where you are pushing and pulling private container images. Another Example is to create a cloud function using some FaaS, where you are able to successfully deploy code and test the resulting endpoint. For your submission, you are documenting every step and findings. You also provide a simple, self-made diagram, showing how the service works or how it interacts with other services, traffic, or data. Every cloud provider offers its services free of charge for new accounts using credits or free-tiers.
 
    b. You pick one cloud service for each of the following categories from your chosen cloud provider:
 
