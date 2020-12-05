@@ -41,11 +41,11 @@ The proxy ingests all internet traffic that comes in from port 80 to the applica
 
 #### Component 'Service A'
 
-Service A is the heart of the application - it does data aggregations and CRUD Operations on the resources (employees, salaries, bonuses, and contracts). Incoming requests from port 8080 are already authorized, so no further security checks are needed. For the CRUD operations, it uses a database and for maintaining user sessions - a cache. For salary and bonus calculations, Service A needs 'Service B'. Therefore, it makes API requests over HTTP to 'Service B'.
+Service A is the heart of the application - it does data aggregations and CRUD Operations on the resources (employees, salaries, bonuses, and contracts). Incoming requests from port 8080 are already authorized, so no further security checks are needed. For the CRUD operations, it uses a database and for maintaining user sessions - a cache. For salary and bonus calculations, Service A needs 'Service B'. Therefore, it makes API requests over HTTP to 'Service B' using an API key to authorize.
 
 #### Component 'Service B'
 
-Service B does only calculations and provides an API for 'Service A' using the HAL response format. HAL responses provide a list of API endpoints for the requesting service, so the actual endpoints of Service B can change without changing the code of Service A. Every time Service A wants to do a calculation, it looks up the current endpoint structure to make the request - so there are at least 2 requests made by Service A to calculate a salary.
+Service B provides an API, secured by an API key. The API uses the HAL response format and provides a list of API endpoints for the requesting service, so the actual endpoints of Service B can change without changing the code of the requesting service. Every time a requesting service wants to do a calculation, it looks up the current endpoint structure to make the request - so there are at least 2 requests made by the requesting service to calculate a salary.
 Example:
 
 ```json
@@ -60,7 +60,7 @@ Example:
          "templated":true
       },
       "calc-bonus":{
-         "href":"http://cluster.web-service.b.example:8081/bonus?role={role}&department={department}&corporate_profit={profit-in-thousand",
+         "href":"http://cluster.web-service.b.example:8081/bonus?role={role}&department={department}&corporate_profit={profit-in-thousand}",
          "templated":true
       }
    }
@@ -72,6 +72,14 @@ To provide these HAL responses, Service B additionally needs to know its own DNS
 #### Component 'Cron'
 
 The Cron component is scheduled to run every night at 3 am to do database operations. It looks for expiring employment contracts and alters a corresponding flag in the contract resource.
+
+#### Component 'Database'
+
+Is used to store and read out structured data.
+
+#### Component 'Cache'
+
+Is used to store user session data.
 
 ![Example Architecture](img/example-architecture.png)
 
@@ -86,6 +94,5 @@ The Cron component is scheduled to run every night at 3 am to do database operat
 
    API_PWD : "superSecret",
    API_USER : "user1",
-   HOST_NAME : "cluster.web-service.x.example"
    PORT : 8888
 ```
