@@ -20,7 +20,7 @@ If you are looking for the link to join the synchronous held course, write me an
 | 20.11 |Containers & VMs|Ansible|[Docker I](./exercises/docker_one.md)|
 | 27.11 |Containers - Deep Dive|quay|[Docker II](./exercises/docker_two.md)|
 | 04.12 |Cloud Computing|FaaS, </br> Firebase, </br> S3 or Cloud Storage, </br> Cloudflare |[Public Cloud Services](./exercises/cloud-services.md)|
-| 11.12 |Logs & Tracing|Jaeger Tracing, Kibana|tba|
+| 11.12 |Logs & Tracing|Jaeger Tracing, Kibana|[Kibana](./exercises/kibana.md)|
 | 18.12 |Metrics & Alerting|Sentry, </br> Prometheus|tba|
 | 08.01 |SLIs, SLOs, SLAs|Chaos Engineering|tba|
 | 15.01 |Secrets Management|HashiCorp Vault|[git-crypt](./exercises/secrets-management.md)|
