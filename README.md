@@ -21,7 +21,7 @@ If you are looking for the link to join the synchronous held course, write me an
 | 27.11 |Containers - Deep Dive|quay|[Docker II](./exercises/docker_two.md)|
 | 04.12 |Cloud Computing|FaaS, </br> Firebase, </br> S3 or Cloud Storage, </br> Cloudflare |[Public Cloud Services](./exercises/cloud-services.md)|
 | 11.12 |Logs & Tracing|Jaeger Tracing, Kibana|[Kibana](./exercises/kibana.md)|
-| 18.12 |Metrics & Alerting|Sentry, </br> Prometheus|tba|
+| 18.12 |Metrics & Alerting|Sentry, </br> Prometheus|[Grafana](./exercises/grafana.md)|
 | 08.01 |SLIs, SLOs, SLAs|Chaos Engineering|tba|
 | 15.01 |Secrets Management|HashiCorp Vault|[git-crypt](./exercises/secrets-management.md)|
 | 22.01 |Service Meshes </br>or</br> Scaleable Web Application Architectures </br>or</br> CI/CD with GitLab CI </br>or</br> Lean </br>or</br> Consumer-Driven Contract Testing|-|tba|
