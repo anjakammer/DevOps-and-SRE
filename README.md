@@ -27,7 +27,7 @@ If you are looking for the link to join the synchronous held course, write me an
 | 22.01 |Service Meshes </br>or</br> Scaleable Web Application Architectures </br>or</br> CI/CD with GitLab CI </br>or</br> Lean </br>or</br> Consumer-Driven Contract Testing|-|tba|
 | 29.01 |Compute Platforms|Heroku, </br> Kubernetes, </br> Cloud Foundry, </br> Fargate |tba|
 | 05.02 |GitOps|Flux-CD, </br> JenkinsX, </br> ArgoCD|tba|
-| 12.02 |Topics we missed|NoOps\*, </br> ChatOps\*, </br> DevSecOps\*, </br> MLOps|via Miro Board|
+| 12.02 |Topics we missed|NoOps\*, </br> ChatOps\*, </br> DevSecOps\*, </br> MLOps </br> (optionally on 5th February)| - |
 
 \* These are easy topics
 
