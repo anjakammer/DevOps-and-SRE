@@ -17,7 +17,7 @@ This exercise aims to learn how to install, run, and understand docker-compose t
 3. Analyse the docker-compose file using the docker-compose v3 reference. For every line, write at least one sentence on what it exactly does.
 4. Use the instructions in the README of the repository to run the containers with docker-compose. Is there any documentation missing?
 5. Access the web application in your browser: [http://localhost:8081](http://localhost:8081). What does it return exactly? If the application is not running on that address, try to debug this error.
-6. If you manage to run the containers, how can you get the logs and what can you read out of them?
+6. If you manage to run the containers, how can you get the logs using the command line and what can you read out of them?
 
 ## This will help you
 
