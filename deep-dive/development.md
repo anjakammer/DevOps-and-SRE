@@ -9,6 +9,7 @@ General useful material about the development process.
 
 ## Articles
 
+- [Web.dev Learn](https://web.dev/learn/) Guide towards web development and UX for the web.
 - [Things You Want to Do in Git and How to Do Them](https://stu2b50.dev/posts/things-you-wante9665) The most useful practical article about git.
 - [Oh Shit, Git!?!](https://ohshitgit.com/) Because everybody recommends it.
 - [The Impostor's Advantage](https://www.zainrizvi.io/blog/the-impostors-advantage/) A magical blog post about the fact, that nobody knows shit
