@@ -12,7 +12,7 @@ This exercise aims to learn how to define SLOs for a user journey.
 
 ## Tasks
 
-1. Read the description of the web app 'The Shop' - a webshop for gaming pc hardware. Also, read the description of 'Persona X'. This person is a typical user of 'The Shop'. Describe the user's steps to find and purchase an item in full sentences - this is the user journey.
+1. Read the description of the web app 'The Shop' - a webshop for gaming pc hardware. Also, read the description of 'Persona X'. This person is a typical user of 'The Shop'. Describe the user's steps to finally purchase an item in full sentences - this is the user journey.
 2. You will create an SLO document for this user journey. Take a look at this example before you go on: [Example SLO Document](https://sre.google/workbook/slo-document/)
 3. Find 3-5 SLIs for this user journey and explain why each of the SLIs is essential for what aspect of the user journey. None of the SLIs is allowed to measure the same aspect. An aspect can be the search speed, defined by the time elapsed between sending a search request and the full rendering of visible search results.
 4. What SLI category does each SLI have?
