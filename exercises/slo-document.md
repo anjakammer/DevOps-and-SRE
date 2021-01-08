@@ -33,7 +33,7 @@ This exercise aims to learn how to define SLOs for a user journey.
       - usage of external APIs
       - or others
 
-7. 100% Reliability is not the goal, also ultra-high performance is not - because of the high costs it will produce. Define SLOs for each SLI and reason about the importance of ambitious 'good' values - when is 'average' good enough? Example: Is a fast search more important than a fast checkout?
+7. 100% Reliability is not the goal, also ultra-high performance is not - because of the high costs it will produce. Define SLOs for each SLI and reason about the importance of ambitious 'good' values for each of them - when is 'average' good enough? Example: Is a fast search more important than a fast checkout? When and why does this statement apply regarding our user journey?
 
 ### Application: 'The Shop'
 
