@@ -1,6 +1,8 @@
-# Secrets Management
+# git-crypt
 
-This is the exercise description
+This Exercise is optional it won't be graded.
+
+Set up git-crypt for a repository of your choice!
 
 ## This will help you
 
