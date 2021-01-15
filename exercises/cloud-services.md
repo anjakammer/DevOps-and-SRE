@@ -8,7 +8,7 @@ This exercise aims to learn what kinds of services public cloud providers offer.
 - For every task, write down your initial thoughts, assumptions, and the final outcome in full sentences.
 - If you are not able to solve a task, describe how you tried to find information, and what was confusing you.
 - Provide a reference for every documentation or tutorial you used to solve a task. Paraphrase and cite correctly, please.
-- Try to submit at __least one, but not more than two A4 pages__ for your exercise documentation in pdf format.
+- Try to submit at __least one, but not more than three A4 pages__ for your exercise documentation in pdf format.
 
 ## Tasks
 
