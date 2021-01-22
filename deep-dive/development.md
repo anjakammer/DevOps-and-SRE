@@ -12,11 +12,13 @@ General useful material about the development process.
 - [Web.dev Learn](https://web.dev/learn/) Guide towards web development and UX for the web.
 - [Things You Want to Do in Git and How to Do Them](https://stu2b50.dev/posts/things-you-wante9665) The most useful practical article about git.
 - [Oh Shit, Git!?!](https://ohshitgit.com/) Because everybody recommends it.
+- [Git Best Practices](https://blog.hartleybrody.com/git-small-teams/) Common Best Practices for Dev Teams.
 - [The Impostor's Advantage](https://www.zainrizvi.io/blog/the-impostors-advantage/) A magical blog post about the fact, that nobody knows shit
 - [Take on hard Projects](https://wizardzines.com/comics/take-on-hard-projects/) You are the right person for any project.
 - [How HTTPS Works](https://howhttps.works/episodes/) A comic you will love.
 - [How DNS Works](https://howdns.works/episodes/) Another comic you will love.
 - [DIY Git in Python](https://www.leshenko.net/p/ugit) Tutorial on how to implement Git in Python.
+- [HTTP Cache](https://web.dev/http-cache/) On how to leverage the Browser for caching.
 
 ## Online Tools
 
