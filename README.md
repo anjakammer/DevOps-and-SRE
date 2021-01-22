@@ -24,7 +24,7 @@ If you are looking for the link to join the synchronous held course, write me an
 | 18.12 |Metrics & Alerting|Sentry, </br> Prometheus|[Grafana](./exercises/grafana.md)|
 | 08.01 |SLIs, SLOs, SLAs|Chaos Engineering|[SLO Documentation](./exercises/slo-document.md)|
 | 15.01 |Secrets Management|HashiCorp Vault|continue </br> [SLO Documentation](./exercises/slo-document.md) </br> for the bored: [git-crypt](./exercises/git-crypt.md) |
-| 22.01 |Scalable Web Application Architectures |-|tba|
+| 22.01 |Scalable Web Application Architectures |-|[Scaling YouTube](./exercises/scaling-youtube.md)|
 | 29.01 |Compute Platforms|Heroku, </br> Kubernetes, </br> Cloud Foundry, </br> Fargate |tba|
 | 05.02 |GitOps|Flux-CD, </br> JenkinsX, </br> ArgoCD|tba|
 | 12.02 |Topics we missed|NoOps\*, </br> ChatOps\*, </br> DevSecOps\*, </br> MLOps </br> (optionally on 5th February)| - |
