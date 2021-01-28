@@ -24,6 +24,7 @@ General useful material about the development process.
 
 - [securityheaders.com](https://securityheaders.com/)
 Check whether your website uses security headers correctly or uses them at all.
+- [Security Knowledge Framework](https://www.securityknowledgeframework.org/) Learn how to secure your web applications.
 - [httpbin](https://httpbin.org/) A simple HTTP request & response service for e.g. testing a proxy
 - [Bash Cheat Sheet](https://devhints.io/bash) Thank me later.
 - [ngrok](https://ngrok.com/) Public URLs for your local running software.
