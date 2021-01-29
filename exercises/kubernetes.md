@@ -29,7 +29,7 @@ Visit the [interactive online course at katacoda](https://www.katacoda.com/cours
   - What does 'svc' in `kubectl get svc` stand for, and what is it used for?
 - Step 5
   - If there are not all 3 pods running when you execute `kubectl get pods`, give it a second and repeat the request.
-  - What is the output for the last command `curl http://172.17.0.42:8000`?
+  - What is the output for the last command `curl http://xxx.xx.x.xx:8000`?
 
 ## This will help you
 
