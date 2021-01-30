@@ -15,9 +15,8 @@ This exercise aims to learn how to use Grafana for visual monitoring and to set 
 Visit the [Grafana Tutorial](https://grafana.com/tutorials/grafana-fundamentals), and go through every step and task of it. For every step of the tutorial, write down your initial thoughts, assumptions, and the final outcome in full sentences. You will use docker-compose to start Grafana and Prometheus locally.
 1. For step 5 'Explore your metrics' - how does the graph and table changes in the course of modifying the query and why?
 2. At the end of step 9 'Annotate events', take a screenshot from your Dashboard, and add the image to your exercise submission.
-3. For step 10 'Set up an alert' - when you are about to create a webhook URL using requestbin, you might want to just use this URL to create one: [https://requestbin.com/r](https://requestbin.com/r)
-4. Add the end of step 10 'Set up an alert', take a screenshot from your Dashboard, and add the image to your exercise submission.
-5. Shut down all components with docker-compose with the following command, executed in the directory the docker-compose.yml file is located in: `docker-compose down`
+3. At the end of step 10 'Set up an alert', take a screenshot from your Dashboard, and add the image to your exercise submission.
+4. Shut down all components with docker-compose with the following command, executed in the directory the docker-compose.yml file is located in: `docker-compose down`
 
 ## This will help you
 
