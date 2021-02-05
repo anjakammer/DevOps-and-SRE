@@ -13,7 +13,7 @@ This exercise aims to learn how to express and justify software architecture dec
 You will create a document that describes and justifies certain software architecture decisions. You will be using all your knowledge that you acquired in this course. The software architecture you are working with is the web app 'The Shop' - a webshop for gaming pc hardware. You find the description here: [Scenario: The Shop](scenarios/the-shop.md).
 
 1. Use the sentence fragments ([Skeleton](#skeleton)) and every term ([Terms to use](#terms-to-use)) at least once to build the architecture documentation. Provide always a comprehensive explanation for an architecture decision you made. Usually, such an explanation consists of several sentences, backed up by sources, best practices, or educated opinions (think of the lectures). Also, try to come up with pro and contra arguments. Don't panic - if you feel you cannot take a fact-based decision, just try to reasonably justify any decision that comes to your mind.
-2. Provide a self-made diagram that shows an integral aspect of the architecture, when it comes to one of the following topics: CI/CD, compute platform and infrastructure, delegation of functionality to cloud-services, monitoring for SLO tracking, secrets management, scalability.
+2. Provide a self-made diagram that shows an integral aspect of the architecture, when it comes to one of the following topics: CI/CD, compute platform and infrastructure, delegation of functionality to cloud-services, monitoring for SLIs, secrets management, scalability.
 
 ### Skeleton
 
