@@ -27,7 +27,7 @@ If you are looking for the link to join the synchronous held course, write me an
 | 22.01 |Scalable Web Application Architectures |-|[Scaling YouTube](./exercises/scaling-youtube.md)|
 | 29.01 |Compute Platforms|Heroku, </br> Kubernetes, </br> Cloud Foundry, </br> Fargate |[Kubernetes](./exercises/kubernetes.md)|
 | 05.02 |GitOps|Flux-CD, </br> JenkinsX, </br> ArgoCD| [Software Architecture Decisions](./exercises/software-architecture-decisions.md)|
-| 12.02 |Topics we missed|NoOps\*, </br> ChatOps\*, </br> DevSecOps\*, </br> MLOps </br> (optionally on 5th February)| - |
+| 12.02 |Topics we missed|NoOps\*, </br> ChatOps\*, </br> DevSecOps\*, </br> MLOps </br> (optionally on 5th February)| continue </br> [Software Architecture Decisions](./exercises/software-architecture-decisions.md) |
 
 \* These are easy topics
 
