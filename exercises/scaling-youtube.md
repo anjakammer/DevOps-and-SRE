@@ -23,4 +23,3 @@ This exercise aims to learn how web application scaling is done in real world sc
 - Using a search engine
 - [Video: YouTube Scalability (~1 Hour Version)](https://www.youtube.com/watch?v=w5WVu624fY8)
 - [Video: YouTube Scalability (~30 Minutes Version)](https://www.youtube.com/watch?v=HXevnuOOy48)
-- [How YouTube's Infrastructure works](http://letmegooglethat.com/?q=how+youtube+infrastructure+works)
