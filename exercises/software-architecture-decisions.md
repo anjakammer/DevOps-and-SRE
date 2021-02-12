@@ -52,9 +52,9 @@ Use other terms and concepts for your document too, that are not in this list.
 - trust
 - quality
 - feedback
-- reliability metrics
-- application artifacts
-- deployment manifests
+- reliability metric
+- application artifact
+- deployment manifest
 - deployment workflow
 - public cloud provider
 - SLIs
