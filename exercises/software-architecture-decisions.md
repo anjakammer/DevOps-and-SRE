@@ -6,7 +6,7 @@ This exercise aims to learn how to express and justify software architecture dec
 
 - Create an exercise documentation (en|de) while you are working on the tasks.
 - Provide a reference for every source you used to solve a task. Paraphrase and cite correctly, please.
-- Your submission should be described in __at least two, but not more than three A4 pages__.
+- Your submission should be described in __at least two, but not more than four A4 pages__.
 
 ## Tasks
 
