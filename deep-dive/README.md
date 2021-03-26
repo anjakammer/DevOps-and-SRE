@@ -7,6 +7,10 @@
 - 👩‍💻 [Software Development in General](./development.md)
 - 👩‍🔧 [Software Architecture & Infrastructure](./software-architecture-and-infrastructure.md)
 
+
+## Anything that does not fit
+
+- [Thoughtworks Decoder](https://www.thoughtworks.com/decoder) - Decode tech terms
 ---
 
 > Internationale Medieninformatik - Bachelor -
