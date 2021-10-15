@@ -18,7 +18,7 @@ If you are looking for the link to join the synchronous held online-course via Z
 | 12.11 |[CI/CD](./deep-dive/ci-cd.md)|GitLab-CI, </br> TravisCI, </br> GitHub Actions| [Github-Actions](./exercises/github-actions.md)|
 | 19.11 |Infrastructure-as-Code|Terraform|[Infrastructure & Architecture](./exercises/infrastructure.md)|
 | 26.11 |Containers & VMs|Ansible|[Docker I](./exercises/docker_one.md)|
-| 03.12 |Containers - Deep Dive|quay|[Docker II](./exercises/docker_two.md)|
+| 03.12 |Containers - Deep Dive|Quay Container Registry|[Docker II](./exercises/docker_two.md)|
 | 10.12 |Cloud Computing|FaaS, </br> Firebase, </br> S3 or Cloud Storage, </br> Cloudflare |[Public Cloud Services](./exercises/cloud-services.md)|
 | 17.12 |Logs & Tracing|Jaeger Tracing, Kibana|[Kibana](./exercises/kibana.md)|
 | 07.01 |Metrics & Alerting|Sentry, </br> Prometheus|[Grafana](./exercises/grafana.md)|
