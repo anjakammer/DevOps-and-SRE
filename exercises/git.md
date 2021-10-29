@@ -18,8 +18,8 @@ GitHub is a platform for storing and accessing these repositories remotely. Ther
 1. Create a [GitHub](https://github.com/) account or use your present one and install the git command line tool.
 2. Fork the following repository and clone it to your local machine: [https://github.com/anjakammer/git-and-github-exercise](https://github.com/anjakammer/git-and-github-exercise)
 3. Use the git command line tool for all git related tasks, no client with an GUI, we want to work with the shell!
-4. Create a new branch from the main branch. The name should be a UUID version 4 string.
-5. Add this UUID to the list in the Readme file of the repository. Tag your commit also with the UUID like this: `v.<UUID>`
+4. Create a new branch from the main branch. The name should be a UUID version 4 string. Use this new branch for the following tasks.
+5. Add this UUID to the list in the Readme file of the repository - use a commit for that. Tag your commit also with the UUID like this: `v.<UUID>`
 6. Push your change and the tag into your forked repository on GitHub. What changes can you observe in the GitHub repository?
 7. Create a pull request with your change to merge it back into the base repository.
 
