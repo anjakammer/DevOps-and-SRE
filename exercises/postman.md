@@ -13,7 +13,7 @@ This exercise aims to learn how to create a Postman collection for easy api test
 ## Tasks
 
 1. Download the Postman client or [use Postman in your browser](https://web.postman.co/). I recommend using the client. We will fire a few requests against some endpoints of an api, test, and monitor them.
-2. Create a collection for the requests with a descriptive name. You can also define variables, put in the variable 'baseUrl' with the value 'https://httpbin-72n43jb7gq-ez.a.run.app'.
+2. Create a collection for the requests with a descriptive name. You can also define variables, put in the variable 'baseUrl' with the value 'https://httpbin-wm2jlcjqfa-ey.a.run.app'.
 3. Add a new request to this collection as an equivalent to the following curl command. A successful request is indicated through a '200 OK' status.
 
     ```bash
