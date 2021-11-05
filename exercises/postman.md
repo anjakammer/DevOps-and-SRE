@@ -8,7 +8,7 @@ This exercise aims to learn how to create a Postman collection for easy api test
 - For every task, write down your initial thoughts, assumptions, and the final outcome in full sentences. Describe the process of solving the task and provide code snippets and screenshots if needed.
 - If you are not able to solve the task because you are not getting the tool to work, describe how you would solve it theoretically. You should still provide e.g. code snippets or a step by step description from the documentation or tutorial you found.
 - Provide a hyperlink or other reference for every documentation or tutorial you used to solve a task. Paraphrase and cite correctly, please.
-- Try to submit at __least two, but not more than four A4 pages__ for your exercise documentation in pdf format.
+- Submit at __least two, but not more than four A4 pages__ for your exercise documentation in pdf format.
 
 ## Tasks
 
