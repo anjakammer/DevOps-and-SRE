@@ -11,7 +11,7 @@ GitHub is a platform for storing and accessing these repositories remotely. Ther
 - If you are not able to solve the task because you are not getting the tool to work, describe how you would solve it theoretically. You should still provide e.g. code snippets or a step by step description from the documentation or tutorial you found.
 - Provide at least an URL or other reference for every documentation or tutorial you used to solve a task. Paraphrase and cite correctly, please. [Use this tutorial, on referencing websites](https://www.scribbr.com/apa-examples/website/) or simply do 
 > `This is a paraphase or cite [author. (date). URL in plain text]`.
-- Try to submit not more than two A4 pages for your exercise documentation in pdf format.
+- Submit not more than two A4 pages for your exercise documentation in pdf format.
 
 ## Tasks
 
