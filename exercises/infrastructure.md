@@ -8,7 +8,7 @@ This exercise aims to learn how an application infrastructure and architecture f
 - For every task, write down your initial thoughts, assumptions, and the final outcome in full sentences. Describe the process of solving the task and provide configuration snippets.
 - If you are not able to solve the task, describe how you tried to find information, and what was confusing you.
 - Provide a hyperlink or other reference for every documentation or tutorial you used to solve a task. Paraphrase and cite correctly, please.
-- Try to submit at __least one, but not more than four A4 pages__ for your exercise documentation in pdf format.
+- Submit at __least one, but not more than four A4 pages__ for your exercise documentation in pdf format.
 
 ## Tasks
 
