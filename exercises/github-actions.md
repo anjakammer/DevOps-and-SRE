@@ -22,3 +22,10 @@ This exercise aims to learn how to automate any code-related process using GitHu
 ## This will help you
 
 - Using a search engine
+
+### Enabling the GitHub Actions Feature
+
+Sometimes it is required to enable the GitHub Actions feature to use it.
+See [the Documentation on that](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository).
+
+![image](https://user-images.githubusercontent.com/7222193/141508716-a1699bb7-3f63-4712-a04b-4fe51628e914.png)
