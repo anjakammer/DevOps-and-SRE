@@ -25,7 +25,8 @@ This exercise aims to learn how to automate any code-related process using GitHu
 
 ### Enabling the GitHub Actions Feature
 
-Sometimes it is required for forked repositories to enable the GitHub Actions feature to use it.
+Sometimes it is required for forked repositories to enable the GitHub Actions feature to use it.  
+Create a (new) pull request after activating Actions, so the workflow is able to run.
 > <img src="https://user-images.githubusercontent.com/7222193/141982113-ac561029-be82-41e1-962a-866810b88ef7.png" width="500">
 
 ### If this did not help or apply to your case, try this: 
