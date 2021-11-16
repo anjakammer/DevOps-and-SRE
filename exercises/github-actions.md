@@ -25,7 +25,11 @@ This exercise aims to learn how to automate any code-related process using GitHu
 
 ### Enabling the GitHub Actions Feature
 
-Sometimes it is required to enable the GitHub Actions feature to use it.
-See [the Documentation on that](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository).
+Sometimes it is required for forked repositories to enable the GitHub Actions feature to use it.
+> <img src="https://user-images.githubusercontent.com/7222193/141982113-ac561029-be82-41e1-962a-866810b88ef7.png" width="500">
 
-![image](https://user-images.githubusercontent.com/7222193/141508716-a1699bb7-3f63-4712-a04b-4fe51628e914.png)
+### If this did not help or apply to your case, try this: 
+
+See [the Documentation on that](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository)
+> ![image](https://user-images.githubusercontent.com/7222193/141508716-a1699bb7-3f63-4712-a04b-4fe51628e914.png)
+
