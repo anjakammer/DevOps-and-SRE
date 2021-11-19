@@ -45,7 +45,7 @@ Service A is the heart of the application - it does data aggregations and CRUD O
 
 #### Component 'Service B'
 
-Service B provides an API, secured by an API key. The API uses the HAL response format and provides a list of API endpoints for the requesting service, so the actual endpoints of Service B can change without changing the code of the requesting service. Every time a requesting service wants to do a calculation, it looks up the current endpoint structure to make the request - so there are at least 2 requests made by the requesting service to calculate a salary.
+Service B provides an API, secured by an API key. The API uses the Hypertext Application Language (HAL) response format and provides a list of API endpoints for the requesting service, so the actual endpoints of Service B can change without changing the code of the requesting service. Every time a requesting service wants to do a calculation, it looks up the current endpoint structure to make the request - so there are at least 2 requests made by the requesting service to calculate a salary.
 Example:
 
 ```json
