@@ -67,7 +67,7 @@ Example:
 }
 ```
 
-To provide these HAL responses, Service B additionally needs to know its own DNS-Name to render the endpoint strings.
+To provide these HAL responses, Service B additionally needs to know its own DNS-Name and Port to render the endpoint strings.
 
 #### Component 'Cron'
 
