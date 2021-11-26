@@ -13,9 +13,9 @@ This exercise aims to learn how to install the docker container runtime and cli 
 ## Tasks
 
 1. Use this resource to install docker on your system: [https://docs.docker.com/get-docker](https://docs.docker.com/get-docker). What Problems occur?
-2. Read the documentation for your platform carefully and describe shortly how docker is run technically. Does your system require to leverage a VM to run docker containers, or does it use your system kernel?
+2. Read the documentation for your platform carefully and describe shortly how docker is run technically. Does your system require to leverage a VM to run containers, or does it use your system kernel?
 3. We want to run a linux container, do you need to make changes on your docker configuration, and why?
-4. Reuse the code of the 'GitHub Actions Exercise'. If you missed that part, simply download the repository here: [https://github.com/anjakammer/github-actions-exercise](https://github.com/anjakammer/github-actions-exercise). Use the instructions in the README of the repository to run the container. Is there any documentation missing?
+4. Reuse the code of the 'GitHub Actions Exercise'. If you missed that part, simply download the repository here: [https://github.com/anjakammer/github-actions-exercise](https://github.com/anjakammer/github-actions-exercise). Use the instructions in the README of the repository to build and run the container. Is there any documentation missing?
 5. Access the web application in your browser: [http://localhost:8080](http://localhost:8080). What does it return exactly? If the application is not running on that address, try to debug this error.
 
 ## This will help you
