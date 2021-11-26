@@ -17,7 +17,7 @@ If you are looking for the link to join the synchronous held online-course via Z
 | 05.11 |[Web Application Architecture](./deep-dive/software-architecture-and-infrastructure.md)| Stateless Applications, </br> Microservices, </br> Elasticsearch|[postman](./exercises/postman.md)|
 | 12.11 |[CI/CD](./deep-dive/ci-cd.md)|GitLab-CI, </br> GitHub Actions| [Github-Actions](./exercises/github-actions.md)|
 | 19.11 |Infrastructure-as-Code|Terraform|[Infrastructure & Architecture](./exercises/infrastructure.md)|
-| 26.11 |Containers & VMs|Ansible|[Docker I](./exercises/docker_one.md)|
+| 26.11 |Containers & VMs|-|[Docker I](./exercises/docker_one.md)|
 | 03.12 |Containers - Deep Dive|Quay Container Registry|[Docker II](./exercises/docker_two.md)|
 | 10.12 |Cloud Computing|FaaS, </br> Firebase, </br> S3 or Cloud Storage, </br> Cloudflare |[Public Cloud Services](./exercises/cloud-services.md)|
 | 17.12 |Logs & Tracing|Jaeger Tracing, </br> Kibana|[Kibana](./exercises/kibana.md)|
