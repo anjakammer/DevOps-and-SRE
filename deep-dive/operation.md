@@ -19,6 +19,7 @@
 ### Docker
 
 - [The Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/) Great tutorial to learn how to use Docker.
+- [Linux containers on Windows 10](https://docs.microsoft.com/en-us/virtualization/windowscontainers/deploy-containers/linux-containers)
 
 ### Git-Crypt
 
