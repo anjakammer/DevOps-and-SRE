@@ -22,7 +22,7 @@ This exercise aims to learn what kinds of services public cloud providers offer.
 
    **2 a.** You pick a particular cloud service from your chosen cloud provider and try it out practically. An example could be the creation of a private container registry, where you are pushing and pulling private container images. Another Example is to create a cloud function using some FaaS, where you are able to successfully deploy code and test the resulting endpoint. For your submission, you are documenting every step and findings. You also provide a simple, **self-made diagram**, showing how the service works or how it interacts with other services, traffic, or data. A rule of thumb for the resolution of the diagram is to have at least 3 Entities, except for users, that interact with each other. Ask the instructor, if you are not sure, whether the provided resolution fits this requirement.
 
-   Every cloud provider offers its services free of charge for new accounts using credits or free-tiers.
+   Every cloud provider offers its services free of charge for new accounts using credits or free-tiers. If you can wait for a day for a creditcard-free AWS Account, use [AWS Education](https://aws.amazon.com/de/education/awseducate/) with your HTW email address.
 
    **2 b.** You pick one cloud service for each of the following categories from your chosen cloud provider:
 
