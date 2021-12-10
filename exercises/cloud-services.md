@@ -28,9 +28,9 @@ This exercise aims to learn what kinds of services public cloud providers offer.
 
       - Developer Tools
       - Compute
-      - Container
-      - Serverless / Serverless Computing
+      - Containers
       - Storage
+      - Management/Governance
 
       Your task is to describe these services, how they work, and when to use them, theoretically. Pick one of your described services and provide a simple, **self-made diagram**, showing how the service works or how it interacts with other services, traffic, or data. A rule of thumb for the resolution of the diagram is to have at least 3 Entities, except for users, that interact with each other. Ask the instructor, if you are not sure, whether the provided resolution fits this requirement.
       If you chose the cloud provider Azure, you will need to use the search function of the product page, to find 'Serverless' products - there is no special category for that.
