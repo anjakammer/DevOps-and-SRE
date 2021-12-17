@@ -19,7 +19,7 @@ Use the [Kibana Guide](https://www.elastic.co/guide/en/kibana/current/index.html
   - Maps
 2. Go to 'Discover' and change the index pattern to "kibana_sample_data_flights". Describe what kind of data you see and a possible user-centered use case for that. Who is the user of this use case?
 3. What is actually an index pattern in Kibana?
-4. Select the following fields on the left: 'FlightNum', 'Origin', 'Dest', 'Cancelled', 'FlightDelay'. Describe how the view changes.
+4. Filter for the following fields on the left: 'FlightNum', 'Origin', 'Dest', 'Cancelled', 'FlightDelay'. Describe how the view changes.
 5. What fields are missing to actually be helpful for the use case you described in task 2, or another use case that comes to your mind that might fit the prior selected fields.
 6. Select another index pattern of your choice, select the search field, and perform a useful query, using the Kibana Query Language (KQL) for a user and use case of your choice.
 
