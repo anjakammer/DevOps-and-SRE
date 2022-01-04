@@ -12,7 +12,7 @@ This exercise aims to learn how to express and justify software architecture dec
 
 You will create a document that describes and justifies certain software architecture decisions. You will be using all your knowledge that you acquired in this course. The software architecture you are working with is the web app 'The Shop' - a webshop for gaming pc hardware. You find the description here: [Scenario: The Shop](scenarios/the-shop.md).
 
-1. Use the sentence fragments ([Skeleton](#skeleton)) and every term ([Terms to use](#terms-to-use)) at least once to build the architecture documentation. Provide always a comprehensive explanation for an architecture decision you made. Usually, such an explanation consists of several sentences, backed up by sources, best practices, or educated opinions (think of the lectures). Also, try to come up with pro and contra arguments. Don't panic - if you feel you cannot take a fact-based decision, just try to reasonably justify any decision that comes to your mind.
+1. Use the sentence fragments ([Skeleton](#skeleton)) and every term ([Terms to use](#terms-to-use)) at least once to build the architecture documentation. Provide always a comprehensive explanation for an architecture decision you made. Usually, such an explanation consists of several sentences, backed up by sources, good practices, or educated opinions (think of the lectures). Also, try to come up with pro and contra arguments. Don't panic - if you feel you cannot take a fact-based decision, just try to reasonably justify any decision that comes to your mind.
 2. Provide a self-made diagram that shows an integral aspect of the architecture, when it comes to one of the following topics: CI/CD, compute platform and infrastructure, delegation of functionality to cloud-services, monitoring for SLIs, secrets management, scalability.
 
 ### Skeleton
@@ -25,7 +25,7 @@ You will create a document that describes and justifies certain software archite
 
 #### Management of SLOs
 
-- The platform team is responsible for the development, measurement, and communication of SLOs. The methods and tools used for this are ... [ your description here. Also, think of meetings and collaboration in general ]
+- Every development team is responsible for the development, measurement, and communication of SLOs for its own services. The platform team supports this intent by providing suitable methods and tools such as XY ... [ your description here. Also, think of meetings and collaboration in general ]
 
 #### Application Development and Delivery
 
