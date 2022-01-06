@@ -12,8 +12,8 @@ This exercise aims to learn how to automate any code-related process using GitHu
 
 ## Tasks
 
-1. Fork the following repository into your account. Add a fancy image into the Readme.md file on a new branch and open a pull request on your own repository for your change. [https://github.com/anjakammer/github-actions-exercise](https://github.com/anjakammer/github-actions-exercise)
-2. A GitHub Workflow should run now, if not you probably need to [activate Actions for the Repository](https://github.com/anjakammer/DevOps-and-SRE/blob/master/exercises/github-actions.md#enabling-the-github-actions-feature). How can you observe the workflow and its stages running for this pull request?
+1. Fork the repository [https://github.com/anjakammer/github-actions-exercise](https://github.com/anjakammer/github-actions-exercise) into your account and activate GitHub Actions under the tab "Actions". If there is no Actions tab, you probably need to [activate Actions for the Repository](https://github.com/anjakammer/DevOps-and-SRE/blob/master/exercises/github-actions.md#enabling-the-github-actions-feature).
+2. Add a fancy image into the Readme.md file on a new branch and open a pull request on your own repository for your change. A GitHub Workflow should run now. How can you observe the workflow and its stages running for this pull request?
 3. Why and when does the 'build' job run? When run the other two?
 4. Analyse the GitHub Workflow configuration file `.github/workflows/onPullRequest.yml`. Explain in detail what each of the lines of the configuration means and does. These are about 50 lines, so you need to write down about __50 sentences__ for this task. However, some lines appear multiple times and some are blank.
 5. How does your GitHub repository change after running this Workflow?
