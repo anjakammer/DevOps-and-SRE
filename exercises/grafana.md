@@ -12,7 +12,7 @@ This exercise aims to learn how to use Grafana for visual monitoring and to set 
 
 ## Tasks
 
-Visit the [Grafana Tutorial](https://grafana.com/tutorials/grafana-fundamentals), and go through every step and task of it. For every step of the tutorial, write down your initial thoughts, assumptions, and the final outcome in full sentences. You will use docker-compose to start Grafana and Prometheus locally.
+Visit the [Grafana Tutorial](https://grafana.com/tutorials/grafana-fundamentals), and go through every step and task of it. __For every step of the tutorial__, write down your initial thoughts, assumptions, and the final outcome in full sentences. You will use docker-compose to start Grafana and Prometheus locally.
 1. For step 5 'Explore your metrics' - how does the graph and table changes in the course of modifying the query and why?
 2. At the end of step 9 'Annotate events', take a screenshot from your Dashboard, and add the image to your exercise submission.
 3. At the end of step 10 'Set up an alert', take a screenshot from your Dashboard, and add the image to your exercise submission.
