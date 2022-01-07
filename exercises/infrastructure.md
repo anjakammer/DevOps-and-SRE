@@ -12,7 +12,7 @@ This exercise aims to learn how an application infrastructure and architecture f
 
 ## Tasks
 
-1. Read the following architecture description with the help of the provided diagram to understand the communication flow of all showed components. Are there any questions or terms you do not know? Use a search engine and answer your questions yourself. Document the questions and solutions. Describe at least 3 terms from the text for this task.
+1. Read the following architecture description with the help of the provided diagram to understand the communication flow of all showed components. Are there any questions or terms you do not know? Use a search engine and answer your questions yourself. Document the questions and solutions. Describe at least 3 terms from the text or answer 3 questions, that come to your mind for this task.
 2. For every component, provide a possible simplified configuration file that is needed for them to communicate with each other. It follows a list of key/value pairs - typically used as 'Environment Variables'. Each of them should appear at least once in one of the configuration files. That means every key/value pair in this list is needed for one or many component configurations. Add any other key/value pair to the configuration files that you think is missing in this list:
    - Auth_Credentials = '[{"name":"user1","group":"admin","pwd":"*obzHaWEQoWu8F2sZ7g9.XdGARJWRQ"},{"name":"user2","group":"admin","pwd":"bK7YhVdrLeNbbDvB2.XuX@cFZ4Ct@h"}]'
    - DB_Connection_String = 'jdbc:postgresql://cluster.web-service.db.example:5342/postgres?user=name&password=secret&ssl=true'
