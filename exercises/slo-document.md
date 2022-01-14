@@ -58,7 +58,7 @@ This service gets the cart information and handles the payment process, includin
 
 ### User: Persona X
 
-Persona X is on a budget. This person has several concrete pc hardware components on their wish list and hopes for good prices. At least weekly, this person searches in 'The Shop' for better prices for items on their wish list. The purchasing process is already running for several weeks, only to get the best price.
+Persona X is on a budget. This person has several concrete pc hardware components on their wish list and hopes for good prices. At least weekly, this person looks for better prices in 'The Shop' for items on their wish list (Bookmarks). The purchasing process is already running for several weeks, only to get the best price.
 
 ## This will help you
 
