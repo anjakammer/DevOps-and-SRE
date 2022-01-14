@@ -60,8 +60,11 @@ This service gets the cart information and handles the payment process, includin
 
 Persona X is on a budget. This person has several concrete pc hardware components on their wish list and hopes for good prices. At least weekly, this person looks for better prices in 'The Shop' for items on their wish list (Bookmarks). The purchasing process is already running for several weeks, only to get the best price.
 
-## This will help you
+## This will help you!
 
 - Using a search engine
-- [Example SLO Document](https://sre.google/workbook/slo-document/)
 - [The Art of SLOs - Handbook](https://static.googleusercontent.com/media/sre.google/en//static/pdf/art-of-slos-handbook-a4.pdf)
+- [Example SLO Document](https://sre.google/workbook/slo-document/)
+
+> ![Exercise](https://user-images.githubusercontent.com/7222193/149549916-cd4a72e3-1b78-4b63-b818-ba87ae31929f.png)
+
