@@ -14,7 +14,7 @@ This exercise aims to learn how to install, run, and understand docker-compose t
 
 1. Use this resource to install docker-compose on your system: [https://docs.docker.com/compose/install/](https://docs.docker.com/compose/install/). What Problems occur?
 2. Download the following repository to get all needed files: [https://github.com/anjakammer/docker-compose_exercise](https://github.com/anjakammer/docker-compose_exercise). Analyse the docker-compose file using the docker-compose v3 reference. For every line, write at least one sentence on what it exactly does.
-3. Use the instructions in the README of the repository to run the containers with docker-compose. Is there any documentation missing?
+3. Use the instructions in the README of the repository to run the containers with docker-compose. Explain what happens while starting the containers.
 4. Access the web application in your browser: [http://localhost:8081](http://localhost:8081). What does it return exactly? If the application is not running on that address, try to debug this error.
 5. If you manage to run the containers, how can you get the logs using the command line and what can you read out of them?
 
