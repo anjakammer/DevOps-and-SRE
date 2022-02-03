@@ -26,7 +26,7 @@ Visit the [interactive online course at katacoda](https://www.katacoda.com/cours
   - What does the command `kubectl expose`?
 - Step 4
   - Why is it a bad idea to use `kubectl run` for production deployments?
-  - 'svc' in `kubectl get svc` stand for service, what is a kubernetes Service used for?
+  - 'svc' in `kubectl get svc` stands for service, what is a Kubernetes Service used for?
 - Step 5
   - If there are not all 3 pods running when you execute `kubectl get pods`, give it a second and repeat the request.
   - What is the output for the last command `curl http://xxx.xx.x.xx:8000`?
