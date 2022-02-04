@@ -8,7 +8,7 @@ This exercise aims to learn how to use Kubernetes to deploy containerized applic
 - For every task, write down your initial thoughts, assumptions, and the final outcome in full sentences. Describe the process of solving the task and provide code snippets and screenshots if needed.
 - If you are not able to solve the task because you are not getting the tool to work, describe how you would solve it theoretically. You should still provide e.g. code snippets or a step by step description from the documentation or tutorial you found.
 - Provide a reference for every documentation or tutorial you used to solve a task. Paraphrase and cite correctly, please.
-- Your submission should be described in __at least two, but not more than three A4 pages__.
+- Your submission should be described in __at least one, but not more than three A4 pages__.
 
 ## Tasks
 
