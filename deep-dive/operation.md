@@ -16,11 +16,18 @@
 
 ## Tools
 
-### Docker
+
+### Containers
+
+- [Kelsey Hightower on Containers](https://www.youtube.com/watch?v=BE77h7dmoQU&t=472s) Explains containers as a postal service
+
+#### Docker
 
 - [The Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/) Great tutorial to learn how to use Docker.
 
-### Linux Container on Windows
+
+
+#### Linux Container on Windows
 
 - [Linux containers on Windows 10 via Moby VM](https://docs.microsoft.com/en-us/virtualization/windowscontainers/deploy-containers/linux-containers)
 - [Linux containers on Windows via WSL](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers)
