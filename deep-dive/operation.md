@@ -34,6 +34,8 @@
 
 - [Kubernetes YAML Generator](https://k8syaml.com/) Online Kubernetes Manifest Generator
 - [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic)
+- [Kubernetes Documentary](https://www.youtube.com/watch?v=BE77h7dmoQU) - The backstory of how Kubernetes matured
+
 
 ### Miscellaneous
 - [Napkin](https://www.napkin.io/) Simple FaaS for Python and Nodejs Code (Free plan available)
