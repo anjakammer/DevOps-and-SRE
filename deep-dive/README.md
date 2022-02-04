@@ -11,7 +11,6 @@
 ## Anything that does not fit
 
 - [Thoughtworks Decoder](https://www.thoughtworks.com/decoder) - Decode tech terms
-- [Kubernetes Documentary](https://www.youtube.com/watch?v=BE77h7dmoQU) - The backstory of how Kubernetes matured
 
 ---
 
