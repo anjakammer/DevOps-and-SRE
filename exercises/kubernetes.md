@@ -34,4 +34,4 @@ Visit the [interactive online course at katacoda](https://www.katacoda.com/cours
 ## This will help you
 
 - Using a search engine
-- [The Illustrated Children’s Guide to Kubernetes - Phippy Goes to the Zoo](https://www.cncf.io/phippy-goes-to-the-zoo-book/)
+- [The Illustrated Children’s Guide to Kubernetes - Phippy Goes to the Zoo](https://www.cncf.io/phippy/the-childrens-illustrated-guide-to-kubernetes/)
