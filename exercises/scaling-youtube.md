@@ -12,11 +12,13 @@ This exercise aims to learn how web application scaling is done in real world sc
 
 ## Tasks
 
-1. Read through all tasks first. You will research how YouTube scaled its system over the years. If you are watching one of their talks on this topic, make notes and reference the video or podcast correctly in your submission. Which sources did you find and use?
-2. What was the initial Architecture and Infrastructure of YouTube?
-3. When did they decide to take special care of scaling? What were the events that showed that YouTube has to take scaling measures?
+Read through all tasks first. You will research how YouTube scaled its system over the years. If you are consuming one of their talks on this topic, make notes and reference the video or podcast correctly in your submission. 
+
+1. Which sources did you find and use?
+2. What was the initial Architecture and Infrastructure of YouTube, according to your source?
+3. When did they decide to take special care of scaling? What were the events (at least two) that showed that YouTube has to take scaling measures?
 4. Explain what they did to be more resilient against high demand.
-5. Include a self-made diagram of YouTube's improved Architecture and Infrastructure. Don't forget to reference your sources, also for the content of this diagram.
+5. Include a self-made diagram of YouTube's improved Architecture and Infrastructure (or some aspect of it). Add a short explanation, on what it shows. Don't forget to reference your sources, also for the content of this diagram.
 
 ## This will help you
 
