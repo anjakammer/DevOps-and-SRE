@@ -25,7 +25,7 @@ You will create a document that describes and justifies certain software archite
 
 #### Management of SLOs
 
-- Every development team is responsible for the development, measurement, and communication of SLOs for its own services. The platform team supports this intent by providing suitable methods and tools such as XY ... [ your description here. Also, think of meetings and collaboration in general ]
+- Every development team is responsible for the development, measurement, and communication of SLOs for its own services. The platform team supports this intent by providing suitable methods and tools such as ... [ your description here. Also, think of meetings and collaboration in general ]
 
 #### Application Development and Delivery
 
