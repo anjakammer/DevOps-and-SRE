@@ -26,7 +26,7 @@ If you are looking for the link to join the synchronous held online-course via Z
 | 21.01 |Secrets Management|HashiCorp Vault|continue </br> [SLO Documentation](./exercises/slo-document.md) </br> for the bored: [git-crypt](./exercises/git-crypt.md) |
 | 28.01 |Scalable Web Application Architectures |Cloudflare's CDN & DNS|[Scaling YouTube](./exercises/scaling-youtube.md)|
 | 04.02 |Compute Platforms|Heroku, </br> Kubernetes, </br> Cloud Foundry, </br> Fargate |[Kubernetes](./exercises/kubernetes.md)|
-| 11.02 |GitOps|Flux-CD, </br> JenkinsX, </br> ArgoCD| [Software Architecture Decisions](./exercises/software-architecture-decisions.md)|
+| 11.02 |GitOps|JenkinsX, </br> ArgoCD| [Software Architecture Decisions](./exercises/software-architecture-decisions.md)|
 
 ---
 
