@@ -37,3 +37,4 @@ Check whether your website uses security headers correctly or uses them at all.
 - [Playlist: Software Development](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4WBzLzIq-rjMtujrGbDgh_)
 - [Talk: Event Storming](https://www.youtube.com/watch?v=YR2-NehkjuY) On how to describe processes
 - [Postman Beginner's Course - API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4) Also helpful to learn more about APIs in generell
+- [Is HTML a Programming Language?](https://briefs.video/videos/is-html-a-programming-language/) Yes, it is.
